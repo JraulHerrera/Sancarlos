@@ -1,0 +1,3 @@
+2016-03-15 18:08:25 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\Upload\admin\controller\module\featured.php on line 124
+2016-03-16 20:03:27 - PHP Notice:  Use of undefined constant hola - assumed 'hola' in C:\xampp\htdocs\Upload\catalog\view\theme\default\template\product\product.tpl on line 75
+2016-03-16 20:03:54 - PHP Notice:  Use of undefined constant holaraul - assumed 'holaraul' in C:\xampp\htdocs\Upload\catalog\view\theme\default\template\product\product.tpl on line 75
